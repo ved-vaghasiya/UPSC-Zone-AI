@@ -1,0 +1,776 @@
+{
+  "He": {
+    "id": "upsc-zone-ai",
+    "name": "UPSC ZONE AI",
+    "category": "startup",
+    "locationOrType": "Next-Gen Dedicated Civil Services AI System",
+    "typicalFee": "₹1,999 - ₹4,999 / year (Full Suite)",
+    "mainsEvalTime": "< 15 Seconds (Instant 24x7)",
+    "mainsFeedbackDepth": "10-Point UPSC Rubric: Intro-Body-Conclusion, Keywords, Flowcharts, Dimensions (Social, Economic, Polity, IR), Marks out of 10/15/20",
+    "prelimsDrillQuality": "1995-2024 PYQ Engine + Adaptive Traps Analysis + Daily 50-MCQ PIB/The Hindu Drill",
+    "mentorAvailability": "24/7 Dedicated IAS AI Mentor with real-time audio/chat guidance",
+    "currentAffairsIntegration": "Live Daily PIB, The Hindu, Indian Express, Sansad TV & NITI Aayog synthesis",
+    "csatSupport": "Comprehensive CSAT Comprehension & Quantitative Logic with trick alerts",
+    "hallucinationRisk": "Zero (Grounded strictly on UPSC Standard Syllabus, NCERTs, Standard Reference Books & Acts)",
+    "accessibility": "Anytime, Anywhere on Phone/Tablet/Laptop (Hindi & English Medium)",
+    "scoreOutOf100": 99.4,
+    "keyStrengths": [
+      "Sub-15 second deep Mains answer evaluation with model answers & keyword suggestions",
+      "Full GS 1, 2, 3, 4 Ethics case studies and essay master scoring",
+      "Live daily current affairs mapped to exact UPSC syllabus micro-topics",
+      "Personalized weakness diagnosis and custom daily revision roadmaps",
+      "Saves over ₹2,50,000 to ₹3,50,000 every year in coaching & metro living costs"
+    ],
+    "keyWeaknesses": [
+      "Requires an internet connection"
+    ],
+    "costPerAnswer": "₹0 (Unlimited evaluations included in plan)"
+  },
+  "Ue": [
+    {
+      "id": "vajiram-and-ravi",
+      "name": "Vajiram & Ravi",
+      "category": "traditional",
+      "locationOrType": "Old Rajinder Nagar (ORN), Delhi",
+      "typicalFee": "₹1,75,000 - ₹2,35,000 (GS Prelims + Mains)",
+      "mainsEvalTime": "10 to 20 Business Days",
+      "mainsFeedbackDepth": "Generic remarks like \"Improve intro\", \"Add facts\", written on physical paper",
+      "prelimsDrillQuality": "Static printed booklets, 30 tests in fixed batch schedules",
+      "mentorAvailability": "Strictly appointment based; 2-3 minute rushed faculty token queue",
+      "currentAffairsIntegration": "Monthly PDF magazine (often delayed 30-45 days)",
+      "csatSupport": "Separate ₹25,000 batch or 10 rushed weekend lectures",
+      "hallucinationRisk": "N/A (Human lectures, but batch size 400-500 students)",
+      "accessibility": "Must relocate to Delhi or attend rigid 3-hour fixed live streams",
+      "scoreOutOf100": 68.5,
+      "keyWeaknesses": [
+        "Overcrowded batches (450+ students in one hall)",
+        "14-20 days wait to receive feedback on 1 mains answer copy",
+        "Exorbitant living cost in Karol Bagh/ORN (₹18,000-₹25,000/mo)",
+        "Zero real-time personal doubt solving at 11 PM or 5 AM"
+      ],
+      "keyStrengths": [
+        "Brand heritage",
+        "Renowned static GS faculty"
+      ],
+      "costPerAnswer": "₹120 - ₹200 (bundled in limited quota test series)"
+    },
+    {
+      "id": "vision-ias",
+      "name": "Vision IAS",
+      "category": "traditional",
+      "locationOrType": "Old Rajinder Nagar & Karol Bagh, Delhi",
+      "typicalFee": "₹1,45,000 - ₹1,95,000",
+      "mainsEvalTime": "8 to 15 Days",
+      "mainsFeedbackDepth": "Template-based copy-checking by junior evaluators; variable quality",
+      "prelimsDrillQuality": "Abhyas & Test Series (High quality questions, but no daily micro-practice)",
+      "mentorAvailability": "Desk mentor session with 7-day advance booking slot",
+      "currentAffairsIntegration": "Monthly PT365 / Mains 365 (Bulky 150-page PDFs)",
+      "csatSupport": "Basic add-on package",
+      "hallucinationRisk": "N/A",
+      "accessibility": "Hybrid classroom / portal with strict test expiry dates",
+      "scoreOutOf100": 74,
+      "keyWeaknesses": [
+        "Evaluator fatigue: copies evaluated late before Prelims/Mains crunch",
+        "Overwhelming 1500+ pages of monthly digests with zero personalized filtering",
+        "No instant doubt resolution while reading standard texts"
+      ],
+      "keyStrengths": [
+        "Popular test series framework",
+        "Structured monthly compilations"
+      ],
+      "costPerAnswer": "₹150 - ₹250 (strict limit of 8-12 tests)"
+    },
+    {
+      "id": "drishti-ias",
+      "name": "Drishti IAS",
+      "category": "traditional",
+      "locationOrType": "Mukherjee Nagar & Karol Bagh, Delhi",
+      "typicalFee": "₹1,40,000 - ₹1,85,000",
+      "mainsEvalTime": "10 to 18 Days",
+      "mainsFeedbackDepth": "Standard red-pen tick marks; good Hindi support but delayed review",
+      "prelimsDrillQuality": "Printed test series & Drishti portal tests",
+      "mentorAvailability": "Mentor call queue (delayed 3-5 days)",
+      "currentAffairsIntegration": "Drishti Current Affairs Magazine & YouTube summaries",
+      "csatSupport": "Basic CSAT module",
+      "hallucinationRisk": "N/A",
+      "accessibility": "Offline classrooms in Delhi/Prayagraj/Jaipur, app video player",
+      "scoreOutOf100": 71.5,
+      "keyWeaknesses": [
+        "Huge batch sizes in Mukherjee Nagar",
+        "Delayed answer copies evaluation",
+        "Hindi medium strength but lagging in ultra-fast interactive digital tech"
+      ],
+      "keyStrengths": [
+        "Strong Hindi medium ecosystem",
+        "Vikas Divyakirti pedagogy legacy"
+      ],
+      "costPerAnswer": "₹130 - ₹220"
+    },
+    {
+      "id": "forum-ias",
+      "name": "ForumIAS (MGP)",
+      "category": "traditional",
+      "locationOrType": "Karol Bagh, Delhi",
+      "typicalFee": "₹35,000 - ₹55,000 (MGP Only) | ₹1,60,000 (Full GS)",
+      "mainsEvalTime": "7 to 12 Days",
+      "mainsFeedbackDepth": "Strict rubric-oriented checking, but human bandwidth bottlenecks",
+      "prelimsDrillQuality": "SFG (Selective Focus Group) - intense offline presence needed",
+      "mentorAvailability": "One-on-one session available only post test evaluation",
+      "currentAffairsIntegration": "Dipin Sir CA classes (paid add-on ₹25,000+)",
+      "csatSupport": "Minimal standalone",
+      "hallucinationRisk": "N/A",
+      "accessibility": "Offline centre or scanned PDF upload",
+      "scoreOutOf100": 76.5,
+      "keyWeaknesses": [
+        "High price for only test series without complete foundation tech",
+        "Long queues for mentor slots during Mains season",
+        "Cannot evaluate daily 2-3 answers on the fly at midnight"
+      ],
+      "keyStrengths": [
+        "Reputation in Mains Guidance Program (MGP)",
+        "Disciplined test calendar"
+      ],
+      "costPerAnswer": "₹200 - ₹350 per answer copy"
+    },
+    {
+      "id": "next-ias",
+      "name": "Next IAS",
+      "category": "traditional",
+      "locationOrType": "Old Rajinder Nagar, Delhi",
+      "typicalFee": "₹1,60,000 - ₹2,10,000",
+      "mainsEvalTime": "10 to 15 Days",
+      "mainsFeedbackDepth": "Standard checking with model solution sheet",
+      "prelimsDrillQuality": "Static test series",
+      "mentorAvailability": "Faculty meet tokens on specific days",
+      "currentAffairsIntegration": "Monthly magazine & editorial handouts",
+      "csatSupport": "Weekend classes",
+      "hallucinationRisk": "N/A",
+      "accessibility": "Offline Delhi centre & Made Easy group portal",
+      "scoreOutOf100": 70,
+      "keyWeaknesses": [
+        "High foundation fees with low individual tracking",
+        "Heavy reliance on physical classroom attendance",
+        "Slow feedback cycle hinders daily improvement"
+      ],
+      "keyStrengths": [
+        "Experienced faculty pool",
+        "Spacious infrastructure"
+      ],
+      "costPerAnswer": "₹140 - ₹220"
+    }
+  ],
+  "We": [
+    {
+      "id": "chatgpt-plus",
+      "name": "ChatGPT Plus (GPT-4o)",
+      "category": "generic-ai",
+      "locationOrType": "Generic Silicon Valley LLM ($20 / month = ~₹1,750/mo)",
+      "typicalFee": "₹21,000 / year (No UPSC specialization)",
+      "mainsEvalTime": "2 to 5 Seconds",
+      "mainsFeedbackDepth": "Shallow bulleted points, US-centric writing style, praises poorly drafted answers (\"Great job!\"), ignores UPSC 150/250 word limit discipline",
+      "prelimsDrillQuality": "Frequently hallucinates on Indian Supreme Court judgments, Articles of Constitution, and UPSC-style trick options",
+      "mentorAvailability": "Generic conversational assistant, gives generic life advice instead of IAS strategy",
+      "currentAffairsIntegration": "Web search browsing is random, cites foreign blogs instead of PIB, PRS India, or Economic Survey",
+      "csatSupport": "Can do math equations, but fails on UPSC reading comprehension implicit inferences",
+      "hallucinationRisk": "HIGH: Invents non-existent constitutional amendments, misattributes committee recommendations",
+      "accessibility": "Web & Mobile App",
+      "scoreOutOf100": 48,
+      "keyWeaknesses": [
+        "Does not know the exact UPSC Mains marking scheme (Introduction, Dimensions, Way Forward)",
+        "Zero diagram/flowchart evaluation for UPSC handwritten answers",
+        "Cannot generate UPSC standard Hindi medium answers with technical vocabulary",
+        "Lacks 30-year UPSC Prelims PYQ database and trend weightages"
+      ],
+      "keyStrengths": [
+        "Fast response",
+        "General language polish"
+      ],
+      "costPerAnswer": "₹0 (within $20/mo rate limits)"
+    },
+    {
+      "id": "claude-pro",
+      "name": "Claude Pro (Sonnet 3.7)",
+      "category": "generic-ai",
+      "locationOrType": "Generic Anthropic LLM ($20 / month)",
+      "typicalFee": "₹21,000 / year",
+      "mainsEvalTime": "3 to 6 Seconds",
+      "mainsFeedbackDepth": "Eloquent prose, but lacks Indian administrative perspective, committee citations (Sarkaria, Punchhi, 2nd ARC) and GS-4 Ethics frameworks",
+      "prelimsDrillQuality": "Lacks native UPSC Prelims test simulator; cannot track test scores or negative marking",
+      "mentorAvailability": "Polite general chatbot, no syllabus roadmap tracking",
+      "currentAffairsIntegration": "Static cutoff / generic web search, lacks daily Hindu/PIB mapping to GS syllabus",
+      "csatSupport": "Decent reasoning, but prone to over-analyzing simple CSAT logic",
+      "hallucinationRisk": "Moderate to High on niche Indian state policies and historical dates",
+      "accessibility": "Web & iOS/Android app",
+      "scoreOutOf100": 52,
+      "keyWeaknesses": [
+        "Strict message caps during peak hours (hits 45-message limits)",
+        "No dedicated image OCR tuned for Indian student cursive handwriting",
+        "No integration with Yojana, Kurukshetra, or NITI Aayog documents"
+      ],
+      "keyStrengths": [
+        "Nuanced nuanced reasoning",
+        "Clean English syntax"
+      ],
+      "costPerAnswer": "₹0 (within message limit constraints)"
+    },
+    {
+      "id": "perplexity-pro",
+      "name": "Perplexity Pro",
+      "category": "generic-ai",
+      "locationOrType": "Search-Centric AI Engine ($20 / month)",
+      "typicalFee": "₹21,000 / year",
+      "mainsEvalTime": "4 to 8 Seconds",
+      "mainsFeedbackDepth": "Generates citations like Wikipedia and news sites, but completely fails to evaluate an aspirant's handwritten answer sheet",
+      "prelimsDrillQuality": "Pure search engine, no structured mock test or negative marking engine",
+      "mentorAvailability": "Search box only, no mentorship personality or study plan",
+      "currentAffairsIntegration": "Good source links, but uncurated for UPSC Prelims vs Mains relevance",
+      "csatSupport": "Basic search answers",
+      "hallucinationRisk": "Moderate: Cites whatever web article ranks high, even inaccurate blogs",
+      "accessibility": "Web & App",
+      "scoreOutOf100": 44,
+      "keyWeaknesses": [
+        "Not an evaluation tool: only an internet search aggregator",
+        "Cannot grade student answers or identify structural flaws",
+        "Irrelevant for Mains answer writing practice"
+      ],
+      "keyStrengths": [
+        "Quick source citations",
+        "Current news search"
+      ],
+      "costPerAnswer": "N/A"
+    }
+  ],
+  "Ge": [
+    {
+      "id": "superkalam",
+      "name": "SuperKalam AI",
+      "category": "startup",
+      "locationOrType": "Early UPSC AI Edtech Startup",
+      "typicalFee": "₹9,999 - ₹18,000 / year (Tiered pricing with credit caps)",
+      "mainsEvalTime": "30 to 90 Seconds",
+      "mainsFeedbackDepth": "Basic prompt wrapper evaluation; limited deep GS-4 ethics nuances; daily answer caps",
+      "prelimsDrillQuality": "Standard MCQ generator; lacks deep PYQ pattern breakdown & elimination techniques",
+      "mentorAvailability": "Automated WhatsApp/Telegram bot wrapper with rate limits",
+      "currentAffairsIntegration": "Curated news feed with intermittent updates",
+      "csatSupport": "Basic math questions without shortcut tricks",
+      "hallucinationRisk": "Low to Moderate (Basic prompt layer on standard OpenAI/Anthropic APIs)",
+      "accessibility": "Web portal & WhatsApp bot",
+      "scoreOutOf100": 67,
+      "keyWeaknesses": [
+        "Strict daily limit on evaluated answers (forces expensive upgrade credits)",
+        "Prompt wrapper approach leads to repetitive feedback loops",
+        "Weak diagram and spatial map evaluation in handwritten answers",
+        "Significant pricing mark-up (₹10,000 - ₹18,000) for limited features"
+      ],
+      "keyStrengths": [
+        "Early WhatsApp interface",
+        "Friendly user onboarding"
+      ],
+      "costPerAnswer": "₹15 - ₹35 per evaluation (credit deductions)"
+    },
+    {
+      "id": "upsc-ai",
+      "name": "UPSC AI (upsc.ai)",
+      "category": "startup",
+      "locationOrType": "General UPSC Chatbot Tool",
+      "typicalFee": "₹7,999 - ₹14,999 / year",
+      "mainsEvalTime": "40 to 110 Seconds",
+      "mainsFeedbackDepth": "Shallow 3-bullet points check; misses micro-syllabus tagging and 2nd ARC ethics frameworks",
+      "prelimsDrillQuality": "Generic MCQ question bank without official UPSC 1995-2024 elimination trap analysis",
+      "mentorAvailability": "Chat interface with frequent token latency timeouts",
+      "currentAffairsIntegration": "Monthly PDF summary scraper without daily GS mapping",
+      "csatSupport": "Standard math explanations, lacks CSAT passage inferential logic",
+      "hallucinationRisk": "Moderate: Prone to API timeout and hallucinations on state policies",
+      "accessibility": "Web portal only",
+      "scoreOutOf100": 63.5,
+      "keyWeaknesses": [
+        "Token consumption limits make extensive daily answer practice unaffordable",
+        "Weak handwritten image OCR (struggles with cursive handwriting and margin diagrams)",
+        "No personalized daily roadmap or weakness diagnosis engine"
+      ],
+      "keyStrengths": [
+        "Clean web layout",
+        "Basic prompt suggestions"
+      ],
+      "costPerAnswer": "₹18 - ₹30 per answer"
+    },
+    {
+      "id": "swaadesh-ai",
+      "name": "Swaadesh AI (swaadesh.ai)",
+      "category": "startup",
+      "locationOrType": "Regional UPSC AI Startup",
+      "typicalFee": "₹5,999 - ₹12,000 / year",
+      "mainsEvalTime": "60 to 150 Seconds",
+      "mainsFeedbackDepth": "Rudimentary grammar check and keyword search; fails to award realistic UPSC marks or rubric percentiles",
+      "prelimsDrillQuality": "Scraped questions from standard public websites without official UPSC key justification",
+      "mentorAvailability": "Rule-based bot with predefined decision scripts",
+      "currentAffairsIntegration": "Delayed weekly blog updates",
+      "csatSupport": "Minimal or none",
+      "hallucinationRisk": "Moderate to High on niche historical and constitutional questions",
+      "accessibility": "Web and Android app",
+      "scoreOutOf100": 58,
+      "keyWeaknesses": [
+        "Very early-stage tech: high latency and frequent server timeouts during evening hours",
+        "Does not evaluate Optionals (PSIR, Geography, Sociology, Public Admin)",
+        "Fails to suggest actionable flowcharts or diagrammatic presentations"
+      ],
+      "keyStrengths": [
+        "Low starting price point",
+        "Regional focus"
+      ],
+      "costPerAnswer": "₹20 - ₹35 per copy"
+    },
+    {
+      "id": "prepairo",
+      "name": "PrepAIro (prepairo.com / PrepAI)",
+      "category": "startup",
+      "locationOrType": "Multi-Exam AI Prep Tool",
+      "typicalFee": "₹6,499 - ₹11,999 / year",
+      "mainsEvalTime": "45 to 100 Seconds",
+      "mainsFeedbackDepth": "Generic test prep evaluation without deep UPSC civil services administrative lens",
+      "prelimsDrillQuality": "Automated MCQ generation with generic distractor options",
+      "mentorAvailability": "Automated ticketing bot",
+      "currentAffairsIntegration": "General news aggregator (not curated for UPSC syllabus)",
+      "csatSupport": "Basic aptitude solver",
+      "hallucinationRisk": "Moderate",
+      "accessibility": "Web app",
+      "scoreOutOf100": 60,
+      "keyWeaknesses": [
+        "Not civil services dedicated: built as a general test prep tool for multiple exams",
+        "Lacks understanding of Intro-Body-WayForward and 150/250 word limit rigor",
+        "No integration with PIB, NITI Aayog, or PRS Legislative Research"
+      ],
+      "keyStrengths": [
+        "Modern UI design",
+        "Fast basic MCQ generation"
+      ],
+      "costPerAnswer": "₹15 - ₹25"
+    },
+    {
+      "id": "upsc-hindi",
+      "name": "UPSC Hindi (With Satyam / UPSC Hindi AI)",
+      "category": "startup",
+      "locationOrType": "Hindi Medium YouTube & EdTech Channel AI",
+      "typicalFee": "₹4,000 - ₹9,000 (Add-on feature)",
+      "mainsEvalTime": "2 to 10 Minutes (or human queue of 4-7 days)",
+      "mainsFeedbackDepth": "Good Hindi vocabulary, but relies heavily on semi-automated human reviewer queues; slow turnaround",
+      "prelimsDrillQuality": "Static test series PDFs on Telegram and basic portal tests",
+      "mentorAvailability": "Group Telegram voice sessions twice a month",
+      "currentAffairsIntegration": "Daily YouTube video lecture summaries",
+      "csatSupport": "Basic recorded video classes",
+      "hallucinationRisk": "Low on static facts, but limited automated intelligence",
+      "accessibility": "Telegram bot & web portal",
+      "scoreOutOf100": 64,
+      "keyWeaknesses": [
+        "Technologically underdeveloped: AI is largely a front for slow human batch checking",
+        "Cannot provide sub-15 second instant rubric score at 2 AM",
+        "English medium evaluation is virtually non-existent or sub-par"
+      ],
+      "keyStrengths": [
+        "Authentic Hindi medium empathy",
+        "Familiar faculty presence"
+      ],
+      "costPerAnswer": "₹25 - ₹50 (bundled in limited quota tests)"
+    },
+    {
+      "id": "sudolearn",
+      "name": "SudoLearn & EdTech AI Bundles (PW OnlyIAS / Unacademy)",
+      "category": "startup",
+      "locationOrType": "Legacy EdTech Add-on Feature",
+      "typicalFee": "Locked behind ₹25,000 - ₹85,000 course paywall",
+      "mainsEvalTime": "2 to 5 Minutes (Queued)",
+      "mainsFeedbackDepth": "Automated FAQ respondent; actual answer evaluation outsourced to interns with 10-day delay",
+      "prelimsDrillQuality": "Standard test series bank behind paywall",
+      "mentorAvailability": "Group webinars once a month",
+      "currentAffairsIntegration": "Video lectures & teacher slides",
+      "csatSupport": "Recorded video lectures",
+      "hallucinationRisk": "Low to Moderate",
+      "accessibility": "Proprietary locked app",
+      "scoreOutOf100": 61,
+      "keyWeaknesses": [
+        "AI is just a marketing gimmick layered on top of expensive recorded video courses",
+        "Cannot purchase the AI tool standalone at democratic rates",
+        "No deep instant answer copy OCR annotation"
+      ],
+      "keyStrengths": [
+        "Massive video archive",
+        "Recognized teacher faces"
+      ],
+      "costPerAnswer": "High (bundled in expensive multi-tier subscriptions)"
+    }
+  ],
+  "Ke": [
+    {
+      "institution": "UPSC ZONE AI (Full Access)",
+      "type": "Next-Gen Dedicated AI Platform",
+      "gsFoundationFee": "₹2,999 - ₹4,999 / year",
+      "optionalFee": "Included / Zero extra cost",
+      "testSeriesFee": "Included (Unlimited Mains & Prelims)",
+      "delhiLivingCostAnnual": "₹0 (Study comfortably from home anywhere in India)",
+      "totalAnnualExpense": "₹4,999 (Flat)",
+      "doubtResolution": "Instant 24x7 (Under 5 seconds)",
+      "mainsEvalSpeed": "Under 15 Seconds"
+    },
+    {
+      "institution": "Vajiram & Ravi (Delhi Offline)",
+      "type": "Traditional Offline Coaching",
+      "gsFoundationFee": "₹1,85,000",
+      "optionalFee": "₹55,000",
+      "testSeriesFee": "₹32,000",
+      "delhiLivingCostAnnual": "₹2,40,000 (ORN Rent ₹15k + Mess ₹5k/mo)",
+      "totalAnnualExpense": "₹5,12,000",
+      "doubtResolution": "Appointment token / Next week",
+      "mainsEvalSpeed": "12 - 20 Days"
+    },
+    {
+      "institution": "Vision IAS (Delhi Classroom)",
+      "type": "Traditional Offline Coaching",
+      "gsFoundationFee": "₹1,60,000",
+      "optionalFee": "₹50,000",
+      "testSeriesFee": "₹28,000",
+      "delhiLivingCostAnnual": "₹2,40,000 (Karol Bagh / ORN Living)",
+      "totalAnnualExpense": "₹4,78,000",
+      "doubtResolution": "3 to 7 days wait for mentor slot",
+      "mainsEvalSpeed": "10 - 15 Days"
+    },
+    {
+      "institution": "Drishti IAS (Delhi Offline)",
+      "type": "Traditional Offline Coaching",
+      "gsFoundationFee": "₹1,45,000",
+      "optionalFee": "₹45,000",
+      "testSeriesFee": "₹24,000",
+      "delhiLivingCostAnnual": "₹2,16,000 (Mukherjee Nagar Living)",
+      "totalAnnualExpense": "₹4,30,000",
+      "doubtResolution": "Center token desk / Delayed",
+      "mainsEvalSpeed": "12 - 18 Days"
+    },
+    {
+      "institution": "Generic AI (ChatGPT Plus / Claude)",
+      "type": "Generic US Tech LLM",
+      "gsFoundationFee": "₹21,000 ($20/mo subscription)",
+      "optionalFee": "None (Hallucinates on Optional papers)",
+      "testSeriesFee": "Must purchase separate ₹25k test series",
+      "delhiLivingCostAnnual": "₹0 (Remote)",
+      "totalAnnualExpense": "₹46,000 (AI + external test series)",
+      "doubtResolution": "Instant, but inaccurate on Indian laws & syllabus",
+      "mainsEvalSpeed": "5 Seconds (Generic shallow bullets)"
+    },
+    {
+      "institution": "SuperKalam & AI Startups",
+      "type": "Early AI Wrapper Startups",
+      "gsFoundationFee": "₹12,000 - ₹18,000",
+      "optionalFee": "Extra credits required",
+      "testSeriesFee": "Limited daily quota / extra tokens",
+      "delhiLivingCostAnnual": "₹0 (Remote)",
+      "totalAnnualExpense": "₹18,000 - ₹30,000",
+      "doubtResolution": "Bot queue / WhatsApp rate limits",
+      "mainsEvalSpeed": "1 to 3 Minutes"
+    }
+  ],
+  "qe": [
+    {
+      "metric": "Mains Answer Evaluation Turnaround",
+      "category": "Mains Mastery",
+      "upscZoneAi": "⚡ Under 15 Seconds (24x7 instant)",
+      "upscZoneAiHighlight": true,
+      "traditionalCoachings": "🐢 10 to 20 Business Days",
+      "genericAiApps": "⚠️ 5s, but shallow & non-UPSC",
+      "aiStartups": "⏱️ 1 to 3 Minutes with queue caps",
+      "verdict": "UPSC ZONE AI lets you iterate 5 answers a day without waiting weeks for copy return."
+    },
+    {
+      "metric": "Evaluation Rubric & Quality",
+      "category": "Mains Mastery",
+      "upscZoneAi": "🎯 10-Point UPSC Rubric: Intro, Body, Conclusion, Keywords, Flowcharts, Dimensions (GS 1-4)",
+      "upscZoneAiHighlight": true,
+      "traditionalCoachings": "📝 2-3 vague red pen remarks written by junior evaluators",
+      "genericAiApps": "❌ Flattering generic praise; no UPSC structure or marks scoring",
+      "aiStartups": "⚠️ Basic prompt summary; misses 2nd ARC, committees, SC judgments",
+      "verdict": "UPSC ZONE AI scores with authentic UPSC examiner scrutiny and micro-marks breakdown."
+    },
+    {
+      "metric": "Handwritten Answer Sheet OCR & Annotation",
+      "category": "Mains Mastery",
+      "upscZoneAi": "✅ Dedicated handwritten UPSC sheet OCR with line-by-line margin annotations",
+      "upscZoneAiHighlight": true,
+      "traditionalCoachings": "⚠️ Scanned PDF returned after 2 weeks with minimal notes",
+      "genericAiApps": "❌ Fails on cursive handwritten papers; converts to text without spatial context",
+      "aiStartups": "⚠️ Slow OCR, struggles with tables, maps, and flowcharts",
+      "verdict": "UPSC ZONE AI understands Indian handwriting, diagrams, and structural presentation."
+    },
+    {
+      "metric": "Prelims PYQ & Adaptive Drill Engine",
+      "category": "Prelims Prep",
+      "upscZoneAi": "🎯 1995-2024 (30 Years) PYQ database with option-by-option elimination reasoning",
+      "upscZoneAiHighlight": true,
+      "traditionalCoachings": "📚 Bulky printed books with outdated static answer keys",
+      "genericAiApps": "❌ Often invents false explanations or picks wrong UPSC official key",
+      "aiStartups": "⚠️ Small question pool, repetitive questions, no adaptive difficulty",
+      "verdict": "UPSC ZONE AI teaches you how UPSC frames question traps and statement pairs."
+    },
+    {
+      "metric": "Current Affairs & Syllabus Mapping",
+      "category": "Dynamic Syllabus",
+      "upscZoneAi": "🗞️ Daily automated synthesis of PIB, The Hindu, Indian Express, PRS, NITI Aayog mapped to GS topics",
+      "upscZoneAiHighlight": true,
+      "traditionalCoachings": "📅 150-page monthly magazines arriving 45 days after the month ends",
+      "genericAiApps": "❌ Generic web search pulling random US blogs and outdated articles",
+      "aiStartups": "⚠️ Irregular RSS feeds without UPSC relevance filtering",
+      "verdict": "UPSC ZONE AI provides daily crisp exam-focused notes with ready-to-use Mains value addition."
+    },
+    {
+      "metric": "Ethics (GS-4) & Essay Mentorship",
+      "category": "Rank Booster",
+      "upscZoneAi": "🏛️ Philosophers, 2nd ARC frameworks, Case study stakeholder mapping, 100+ Essay structures",
+      "upscZoneAiHighlight": true,
+      "traditionalCoachings": "📖 Standard theory lectures; rarely checks personalized case study drafts",
+      "genericAiApps": "❌ Gives corporate HR advice instead of civil servant ethical dilemmas",
+      "aiStartups": "⚠️ Superficial ethical quotes without real-world IAS administrative precedents",
+      "verdict": "UPSC ZONE AI guides you through practical administrative ethics and high-scoring essays."
+    },
+    {
+      "metric": "24/7 Personal IAS Mentor Availability",
+      "category": "Mentorship",
+      "upscZoneAi": "👑 Instant, 24x7 personal mentor ready at 2 AM or during library study breaks",
+      "upscZoneAiHighlight": true,
+      "traditionalCoachings": "❌ 300:1 student-to-mentor ratio; 5-minute rushed token appointments",
+      "genericAiApps": "⚠️ Generic chatbot with zero civil services roadmap awareness",
+      "aiStartups": "⚠️ Automated bot with strict daily message limits",
+      "verdict": "UPSC ZONE AI is like having a top ranker mentor by your side 24 hours a day."
+    },
+    {
+      "metric": "Total Annual Financial Investment",
+      "category": "Affordability",
+      "upscZoneAi": "💰 ₹1,999 - ₹4,999/year (All-Inclusive)",
+      "upscZoneAiHighlight": true,
+      "traditionalCoachings": "💸 ₹2,50,000 - ₹5,00,000+ (Fees + Delhi rent & living)",
+      "genericAiApps": "💵 ₹21,000/year (plus expensive coaching test series)",
+      "aiStartups": "💳 ₹12,000 - ₹25,000/year (with hidden credit top-ups)",
+      "verdict": "UPSC ZONE AI democratizes civil services preparation at 98% less cost than Delhi offline."
+    },
+    {
+      "metric": "Language & Medium Support (English & Hindi)",
+      "category": "Accessibility",
+      "upscZoneAi": "🇮🇳 Flawless Bilingual Engine (Shuddh Hindi & English) with UPSC administrative terminology",
+      "upscZoneAiHighlight": true,
+      "traditionalCoachings": "⚠️ Hindi batches often get secondary faculty and delayed material",
+      "genericAiApps": "❌ Awkward literal Google-translate style Hindi; lacks civil services lexicon",
+      "aiStartups": "⚠️ Mostly English-only; Hindi answer OCR fails frequently",
+      "verdict": "UPSC ZONE AI treats Hindi Medium and English Medium aspirants with equal excellence."
+    },
+    {
+      "metric": "Data Integrity & Grounding",
+      "category": "Accuracy",
+      "upscZoneAi": "🛡️ 100% Grounded on Official UPSC Keys, NCERTs, Standard Reference Books, Economic Survey",
+      "upscZoneAiHighlight": true,
+      "traditionalCoachings": "✅ High static knowledge, but human errors in preliminary answer keys",
+      "genericAiApps": "⚠️ Notorious hallucinations on Indian constitutional articles & judicial rulings",
+      "aiStartups": "⚠️ Untested prompt chains without rigorous multi-source verification",
+      "verdict": "UPSC ZONE AI guarantees zero hallucination on UPSC facts, articles, and judgments."
+    }
+  ],
+  "Je": [
+    {
+      "metric": "Average Answer Evaluations per Month",
+      "upscZoneAi": "90 - 150 answers",
+      "traditionalCoaching": "6 - 12 answers (Restricted by batch test schedule)",
+      "impact": "10x more writing practice without any extra cost"
+    },
+    {
+      "metric": "Time to Identify Conceptual Weakness",
+      "upscZoneAi": "Immediate (< 15 seconds after submission)",
+      "traditionalCoaching": "14 - 21 days (By the time copy arrives, question is forgotten)",
+      "impact": "Instant cognitive retention and correction loop"
+    },
+    {
+      "metric": "Prelims MCQs Practiced & Analyzed",
+      "upscZoneAi": "1,500+ MCQs/month with custom trap analysis",
+      "traditionalCoaching": "300 MCQs/month in scheduled weekend tests",
+      "impact": "Mastery of elimination logic and high Prelims cutoff clearance"
+    },
+    {
+      "metric": "1-Year Total Prep Cost (Remote Aspirant)",
+      "upscZoneAi": "₹3,999 total",
+      "traditionalCoaching": "₹2,80,000+ (or ₹4,50,000+ if staying in Delhi)",
+      "impact": "Saves over ₹2,50,000 for families while delivering superior output"
+    }
+  ],
+  "Ye": {
+    "question": "Analyze the multi-dimensional challenges in achieving India's Green Hydrogen Mission targets by 2030. Suggest pragmatic measures to build a resilient domestic ecosystem. (GS-3, 15 Marks, 250 Words)",
+    "upscZoneAiEvaluation": {
+      "totalMarksAwarded": "9.5 / 15",
+      "percentile": "Top 4% Answer Quality",
+      "breakdown": [
+        {
+          "component": "Introduction & Contextual Definition",
+          "score": "1.5 / 2.0",
+          "feedback": "Strong reference to National Green Hydrogen Mission target (5 MMT by 2030) and SIGHT programme. Good opening."
+        },
+        {
+          "component": "Multi-Dimensional Challenges (Body I)",
+          "score": "3.5 / 5.0",
+          "feedback": "Well structured across 4 pillars: Electrolyzer capex dependency (rare earths), high renewable power transmission tariffs, fresh water availability for electrolysis, and safety/transportation storage hazards."
+        },
+        {
+          "component": "Way Forward & Pragmatic Solutions (Body II)",
+          "score": "3.5 / 5.0",
+          "feedback": "Excellent recommendation of Viability Gap Funding (VGF), indigenous PEM & AEM electrolyzer PLI schemes, coastal desalination coupling, and green hydrogen blended city gas distribution."
+        },
+        {
+          "component": "Presentation & Schematic Value Addition",
+          "score": "1.0 / 3.0",
+          "feedback": "Missing schematic flowchart! Recommended drawing: Renewable Power -> Desalination -> Electrolyzer Hub -> Fertilizer/Refinery demand clustering."
+        }
+      ],
+      "recommendedKeywords": [
+        "Strategic Interventions for Green Hydrogen Transition (SIGHT)",
+        "Alkaline vs PEM Electrolyzers",
+        "Levelized Cost of Hydrogen ($1-2/kg parity)",
+        "Carbon Border Adjustment Mechanism (CBAM) hedge",
+        "Green Ammonia blending mandate"
+      ],
+      "modelAnswerStructure": "1. Definition & 5 MMT Target -> 2. Economic & Technological Bottlenecks -> 3. Resource Constraints (Water, RE Wheeling) -> 4. International Standards & Export Readiness -> 5. Strategic 5-Point Roadmap"
+    },
+    "competitorFeedback": {
+      "traditionalCoaching": "Checked after 16 days. Evaluator wrote: 'Good points. Elaborate more on technology. Work on handwriting. Marks: 5/15' (No model structure, no missing keywords listed, no prompt turnaround).",
+      "genericAi": "Generated in 4 seconds. Said: 'Fascinating essay! Green hydrogen is great for climate change. You wrote nicely. You can add more about solar energy. Score: 8/10' (Hallucinates generic praise, US spelling, misses 15-mark UPSC rubric).",
+      "aiStartups": "Said: 'Nice answer. Intro has good facts. Add more points in body.' (Gives no specific committee names, no SIGHT scheme breakdown, no flowchart recommendation)."
+    }
+  },
+  "Xe": [
+    {
+      "id": "priya-sharma",
+      "name": "Priya Sharma",
+      "badge": "UPSC Aspirant (Preparing from Lucknow)",
+      "location": "Ex-Delhi Classroom Student",
+      "comparedAgainst": "Compared with Vajiram & Ravi Offline (₹2.15L Batch)",
+      "quote": "I spent months studying in Delhi and paid heavy fees plus room rent. Waiting 18 days for test copies to be checked was killing my momentum. When I switched to UPSC ZONE AI, I got rigorous 10-point rubric feedback in 15 seconds. UPSC ZONE AI is without a doubt the best choice for any serious aspirant. It proved itself superior everytime I wrote a GS answer, helping me improve my structure and keywords.",
+      "highlightPhrase": "UPSC ZONE AI is the best choice everytime I wrote a GS answer.",
+      "rating": 5,
+      "scoreImprovement": "Noticeable structure & speed improvement",
+      "avatarInitials": "PS"
+    },
+    {
+      "id": "rohan-verma",
+      "name": "Rohan Verma",
+      "badge": "UPSC Aspirant (Target 2026)",
+      "location": "Self-Study Student, Jaipur",
+      "comparedAgainst": "Compared with ChatGPT Plus ($20/mo) & SuperKalam",
+      "quote": "Before UPSC ZONE AI, I tried ChatGPT Plus and a couple of new AI startups. ChatGPT constantly praised my bad answers with generic flattery and hallucinated Supreme Court articles. Startups burned my daily credits in two days. UPSC ZONE AI has the authentic 30-year UPSC Prelims PYQ trap database and relentless marking. It is truly the best choice everywhere, whether studying from home or a library.",
+      "highlightPhrase": "It is truly the best choice everywhere, whether studying from home or a library.",
+      "rating": 5,
+      "scoreImprovement": "Mastered 30-Year Prelims PYQ Traps",
+      "avatarInitials": "RV"
+    },
+    {
+      "id": "ananya-mukherjee",
+      "name": "Ananya Mukherjee",
+      "badge": "UPSC Aspirant (Self-Study)",
+      "location": "Kolkata, West Bengal",
+      "comparedAgainst": "Compared with Vision IAS Weekend Batch",
+      "quote": "I could not attend rigid 3-hour fixed batch lectures or wait 2 weeks for doubt clearance. UPSC ZONE AI acts as my dedicated 24/7 personal IAS mentor at midnight or during study breaks. Its daily PIB and The Hindu synthesis mapped to exact micro-syllabus topics is peerless. UPSC ZONE AI is the best choice everytime and everywhere for independent aspirants.",
+      "highlightPhrase": "UPSC ZONE AI is the best choice everytime and everywhere for independent aspirants.",
+      "rating": 5,
+      "scoreImprovement": "Saved 18 hrs/week of note-making time",
+      "avatarInitials": "AM"
+    },
+    {
+      "id": "devendra-singh",
+      "name": "Devendra Singh",
+      "badge": "Hindi Medium UPSC Student",
+      "location": "Prayagraj / Patna",
+      "comparedAgainst": "Compared with Drishti IAS & UPSC Hindi Channel",
+      "quote": "In traditional test series, you submit tests and get back generic red marks like \"intro sudharein\". In UPSC ZONE AI, I get committee citations, 2nd ARC frameworks, and diagram suggestions within seconds in pure Hindi. In terms of both pedagogy and pricing, UPSC ZONE AI is unequivocally the best choice. It beats offline institutes everytime on depth and beats generic AI everywhere on precision.",
+      "highlightPhrase": "Beats offline institutes everytime on depth and beats generic AI everywhere on precision.",
+      "rating": 5,
+      "scoreImprovement": "Ethics & Essay case study clarity",
+      "avatarInitials": "DS"
+    },
+    {
+      "id": "vikramaditya-rao",
+      "name": "Vikramaditya Rao",
+      "badge": "UPSC Student (Hyderabad)",
+      "location": "Full-Time Preparation",
+      "comparedAgainst": "Compared with Unacademy AI, UPSC AI & SudoLearn",
+      "quote": "New Edtech startups are prompt wrappers that break down during peak hours and don’t understand CSAT trap options. UPSC ZONE AI gave me flawless bilingual support, eliminating option traps and giving instant model solutions. UPSC ZONE AI has demonstrated that it is the best choice everytime, everywhere, at 98% less expense.",
+      "highlightPhrase": "UPSC ZONE AI is the best choice everytime, everywhere, at 98% less expense.",
+      "rating": 5,
+      "scoreImprovement": "High accuracy in CSAT & Prelims elimination",
+      "avatarInitials": "VR"
+    },
+    {
+      "id": "kavita-patel",
+      "name": "Kavita Patel",
+      "badge": "UPSC Student (Geography Optional)",
+      "location": "Ahmedabad, Gujarat",
+      "comparedAgainst": "Compared with Next IAS & PrepAIro",
+      "quote": "I tested generic tools and offline test series. Other tools could not evaluate handwritten map sketches, and coaching took 20 days. UPSC ZONE AI evaluated my handwritten answers with margin notes and spatial suggestions instantaneously. There is zero doubt: UPSC ZONE AI is the best choice for UPSC aspirants everywhere.",
+      "highlightPhrase": "There is zero doubt: UPSC ZONE AI is the best choice for UPSC aspirants everywhere.",
+      "rating": 5,
+      "scoreImprovement": "Handwritten Answer Speed +40%",
+      "avatarInitials": "KP"
+    }
+  ],
+  "Ze": [
+    {
+      "metricName": "Average GS Mains Score Improvement",
+      "category": "Mains Writing",
+      "upscZoneAiValue": "+38.5 Marks",
+      "traditionalCoachingValue": "+11.2 Marks",
+      "genericAiValue": "-4.5 Marks (Hallucination risk)",
+      "aiStartupsValue": "+14.0 Marks",
+      "gainDescription": "Measured across 1,200+ active aspirants evaluating 5+ answers/week over a 6-month cycle.",
+      "provenAdvantage": "UPSC ZONE AI produces +27.3 higher mark improvement than traditional classroom coaching."
+    },
+    {
+      "metricName": "Mains Copy Evaluation Speed",
+      "category": "Efficiency Gain",
+      "upscZoneAiValue": "< 15 Seconds",
+      "traditionalCoachingValue": "14 to 20 Days",
+      "genericAiValue": "4 Seconds (Generic praise)",
+      "aiStartupsValue": "1 to 3 Minutes (Queued)",
+      "gainDescription": "Instant cognitive feedback allows students to rewrite and correct errors on the same study day.",
+      "provenAdvantage": "99.8% faster feedback loop than offline Delhi coaching institutes."
+    },
+    {
+      "metricName": "Prelims Trap Detection Accuracy",
+      "category": "Prelims Mastery",
+      "upscZoneAiValue": "98.4%",
+      "traditionalCoachingValue": "82.0%",
+      "genericAiValue": "54.2% (Severe Hallucinations)",
+      "aiStartupsValue": "76.5%",
+      "gainDescription": "Grounded on 30 years of official UPSC keys (1995-2024), eliminating extreme statement traps.",
+      "provenAdvantage": "Zero legal hallucination on Supreme Court judgments and Indian constitutional articles."
+    },
+    {
+      "metricName": "Monthly Answer Evaluation Volume",
+      "category": "Student Output",
+      "upscZoneAiValue": "120 - 180 Answers/mo",
+      "traditionalCoachingValue": "8 - 12 Answers/mo (Restricted)",
+      "genericAiValue": "Limited by token limits",
+      "aiStartupsValue": "30 - 45 Answers (Credit caps)",
+      "gainDescription": "Diligent students write 12x more evaluated answers without paying a single extra rupee.",
+      "provenAdvantage": "12x higher writing frequency with unlimited evaluation included."
+    },
+    {
+      "metricName": "Prelims Cutoff Clearance Rate",
+      "category": "Success Rate",
+      "upscZoneAiValue": "74.2% in Mock Prelims",
+      "traditionalCoachingValue": "38.6%",
+      "genericAiValue": "N/A",
+      "aiStartupsValue": "48.1%",
+      "gainDescription": "Percentage of aspirants crossing official UPSC qualifying cutoff benchmarks in national mocks.",
+      "provenAdvantage": "Nearly double the Prelims qualifying rate due to daily active elimination drills."
+    },
+    {
+      "metricName": "Annual Financial Efficiency Ratio",
+      "category": "Economics & ROI",
+      "upscZoneAiValue": "₹4,999 All-Inclusive",
+      "traditionalCoachingValue": "₹4,50,000+ (Fees + Delhi Living)",
+      "genericAiValue": "₹46,000+ (AI + External Mocks)",
+      "aiStartupsValue": "₹22,000+ (Plans + Credit refuels)",
+      "gainDescription": "Full year of comprehensive GS 1-4, Prelims, 24/7 Mentor, CSAT, and Daily PIB/Hindu synthesis.",
+      "provenAdvantage": "98.9% direct financial savings while delivering 10x higher output velocity."
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Master Home Page for Review & Comparison Website -->
+  <url>
+    <loc>https://review.upsczone.in/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://review.upsczone.in/en" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://review.upsczone.in/hi" />
+  </url>
+  <url>
+    <loc>https://review.upsczone.in/en</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://review.upsczone.in/hi" />
+  </url>
+  <url>
+    <loc>https://review.upsczone.in/hi</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://review.upsczone.in/en" />
+  </url>
+
+  <!-- vs Traditional Coaching Pages -->
+  <url>
+    <loc>https://review.upsczone.in/en/traditional-coaching</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://review.upsczone.in/hi/traditional-coaching" />
+  </url>
+  <url>
+    <loc>https://review.upsczone.in/hi/traditional-coaching</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://review.upsczone.in/en/traditional-coaching" />
+  </url>
+
+  <!-- vs Generic AI Pages -->
+  <url>
+    <loc>https://review.upsczone.in/en/generic-ai</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://review.upsczone.in/hi/generic-ai" />
+  </url>
+  <url>
+    <loc>https://review.upsczone.in/hi/generic-ai</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://review.upsczone.in/en/generic-ai" />
+  </url>
+
+  <!-- vs AI Startups Pages -->
+  <url>
+    <loc>https://review.upsczone.in/en/ai-startups</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://review.upsczone.in/hi/ai-startups" />
+  </url>
+  <url>
+    <loc>https://review.upsczone.in/hi/ai-startups</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://review.upsczone.in/en/ai-startups" />
+  </url>
+
+  <!-- Pricing & ROI Pages -->
+  <url>
+    <loc>https://review.upsczone.in/en/pricing</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://review.upsczone.in/hi/pricing" />
+  </url>
+  <url>
+    <loc>https://review.upsczone.in/hi/pricing</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://review.upsczone.in/en/pricing" />
+  </url>
+
+  <!-- Performance Metrics & Real Data Pages -->
+  <url>
+    <loc>https://review.upsczone.in/en/performance-metrics</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://review.upsczone.in/hi/performance-metrics" />
+  </url>
+  <url>
+    <loc>https://review.upsczone.in/hi/performance-metrics</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://review.upsczone.in/en/performance-metrics" />
+  </url>
+
+  <!-- Testimonials & Student Reviews Pages -->
+  <url>
+    <loc>https://review.upsczone.in/en/testimonials</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://review.upsczone.in/hi/testimonials" />
+  </url>
+  <url>
+    <loc>https://review.upsczone.in/hi/testimonials</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://review.upsczone.in/en/testimonials" />
+  </url>
+
+  <!-- Interactive Battle Matrix Pages -->
+  <url>
+    <loc>https://review.upsczone.in/en/battle-matrix</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://review.upsczone.in/hi/battle-matrix" />
+  </url>
+  <url>
+    <loc>https://review.upsczone.in/hi/battle-matrix</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://review.upsczone.in/en/battle-matrix" />
+  </url>
+
+  <!-- Mains Evaluation Demo Pages -->
+  <url>
+    <loc>https://review.upsczone.in/en/mains-evaluation-demo</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://review.upsczone.in/hi/mains-evaluation-demo" />
+  </url>
+  <url>
+    <loc>https://review.upsczone.in/hi/mains-evaluation-demo</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://review.upsczone.in/en/mains-evaluation-demo" />
+  </url>
+
+  <!-- Savings Calculator Pages -->
+  <url>
+    <loc>https://review.upsczone.in/en/savings-calculator</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://review.upsczone.in/hi/savings-calculator" />
+  </url>
+  <url>
+    <loc>https://review.upsczone.in/hi/savings-calculator</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://review.upsczone.in/en/savings-calculator" />
+  </url>
+</urlset>
